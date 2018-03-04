@@ -1,8 +1,9 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sat Feb  3 12:36:12 2018
 
 @author: Rajesh Rajendran
+@Purpose - for the assignement
 """
 
 '''
